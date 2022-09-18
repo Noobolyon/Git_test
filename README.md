@@ -1,3 +1,3 @@
 # Git_test
 My first github repo 
-Hello odin project
+Hello odin projec
